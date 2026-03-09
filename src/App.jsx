@@ -64,7 +64,7 @@ function ReportView({ form, onNewReport }) {
           <div style={s.logoWrap}>
             <div style={s.logoMark}>S</div>
             <div>
-              <div style={s.logoName}>SCHICK</div>
+              <div style={s.logoName}>SITE DIARY</div>
               <div style={s.logoSub}>CIVIL CONTRACTING</div>
             </div>
           </div>
@@ -367,7 +367,7 @@ export default function SiteDiary() {
             <div style={s.logoWrap}>
               <div style={s.logoMark}>S</div>
               <div>
-                <div style={s.logoName}>SCHICK</div>
+                <div style={s.logoName}>SITE DIARY</div>
                 <div style={s.logoSub}>CIVIL CONTRACTING</div>
               </div>
             </div>
@@ -421,7 +421,7 @@ export default function SiteDiary() {
           <div style={s.logoWrap}>
             <div style={s.logoMark}>S</div>
             <div>
-              <div style={s.logoName}>SCHICK</div>
+              <div style={s.logoName}>SITE DIARY</div>
               <div style={s.logoSub}>CIVIL CONTRACTING</div>
             </div>
           </div>
